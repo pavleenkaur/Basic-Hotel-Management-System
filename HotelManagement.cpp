@@ -1,8 +1,3 @@
-/* PROJECT NAME- HOTEL RESERVATION SYSTEM
-   STUDENT NAME- PAVLEEN KAUR
-   CLASS       - 12 - C
-*/
-
 #include<iostream.h> // HEADER FILES
 #include<fstream.h>
 #include<string.h> 
